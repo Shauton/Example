@@ -1,2 +1,2 @@
 # Example
-Team name: Xtreme Mooses
+Team name: Xtreme Moose
